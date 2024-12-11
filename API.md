@@ -12,14 +12,12 @@ API Usage Example
 
 Advantages Of API	
 
-Conclusion**	
+Conclusion	
 
 
 
 What Is an API?
-
 ![][image1]
-
 API ka full form hai **Application Programming Interface**. Yeh ek tarika hai jisse do applications aapas mein communicate karte hain bina kisi direct user ke intervAPI ko ek waiter ki tarah samjha ja sakta hai jo kitchen aur customer ke beech ka connection hai. Jaise waiter order leta hai aur kitchen se food lata hai, waise hi API bhi ek request ko process karke response laata hai.
 
 API waiter ki tarah kaam karta hai jo **customer** (app) aur **kitchen** (backend server) ke beech ka bridge hai. Waiter aapka order kitchen tak le jaata hai aur khana (data) wapas lekar aata hai. Is process mein, aapko kitchen mein jaake khana banane ki zarurat nahi hai — bas waiter ko bata do, aur kaam ho jaayega\! Isi tarah, APIs software applications ke beech information exchange karne mein madad karti hain bina kisi direct user interference ke.
