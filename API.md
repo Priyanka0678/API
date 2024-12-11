@@ -48,13 +48,13 @@ Jaise waiter aapko pizza lekar aata hai, waise hi API backend se response lekar 
 
 Types of APIs
 
-**REST API (Representational State Transfer):
+REST API (Representational State Transfer):
 
 * Yeh API architecture ka ek popular format hai.  
 * Data ko access karne ke liye HTTP methods like GET, POST, PUT, DELETE ka use kiya jata hai.  
 * REST APIs usually lightweight hoti hain aur response JSON format mein hota hai.
 
-**SOAP API (Simple Object Access Protocol):
+SOAP API (Simple Object Access Protocol):
 
 * Yeh APIs zyada secure aur strict hoti hain.  
 * SOAP APIs usually XML format mein data ko send aur receive karti hain.
