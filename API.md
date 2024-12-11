@@ -1,30 +1,22 @@
-## **Table of Contents**
+Table of Contents
 
-## 
+What Is an API?	
 
-**[What Is an API?	
+API Main Components	
 
-[**API Main Components	
+How Does The API Work?
 
-[**How Does The API Work?
+Types of APIs	
 
-[**Types of APIs	
+API Usage Example	
 
-[**API Usage Example	
+Advantages Of API	
 
-[**Advantages Of API	
+Conclusion**	
 
-[**Conclusion**	
 
-## 
 
-## 
-
-## 
-
-## 
-
-### **What Is an API?** 
+What Is an API?
 
 ![][image1]
 
@@ -32,15 +24,14 @@ API ka full form hai **Application Programming Interface**. Yeh ek tarika hai ji
 
 API waiter ki tarah kaam karta hai jo **customer** (app) aur **kitchen** (backend server) ke beech ka bridge hai. Waiter aapka order kitchen tak le jaata hai aur khana (data) wapas lekar aata hai. Is process mein, aapko kitchen mein jaake khana banane ki zarurat nahi hai — bas waiter ko bata do, aur kaam ho jaayega\! Isi tarah, APIs software applications ke beech information exchange karne mein madad karti hain bina kisi direct user interference ke.
 
-### **API Main Components** 
+API Main Components
 
 1. **Request**: Jab hum kuchh specific information chahte hain, toh hum ek request bhejte hain. Jaise, agar app ko weather ka data chahiye, toh woh ek request bhejta hai API ko.  
 2. **Endpoint**: API mein alag-alag functions ya services hoti hain jinko hum access kar sakte hain. Yeh endpoints hote hain, jaise `/search`  
 3. **Response**: API request ko process karke response bhejta hai. Yeh response mostly JSON ya XML format mein hota hai jo structured hota hai jise hum easily read kar sakte hai.
 
-### 
 
-### **How Does The API Work?** 
+How Does The API Work?
 
 **1.Request Bhejna:**  
 Aap (client) waiter ko bula kar kehte hain: "Mujhe ek pizza chahiye".  
@@ -56,20 +47,20 @@ Jaise waiter aapko pizza lekar aata hai, waise hi API backend se response lekar 
     
 
 
-### **Types of APIs** 
+Types of APIs
 
-**REST API (Representational State Transfer):**
+**REST API (Representational State Transfer):
 
 * Yeh API architecture ka ek popular format hai.  
 * Data ko access karne ke liye HTTP methods like GET, POST, PUT, DELETE ka use kiya jata hai.  
 * REST APIs usually lightweight hoti hain aur response JSON format mein hota hai.
 
-**SOAP API (Simple Object Access Protocol):**
+**SOAP API (Simple Object Access Protocol):
 
 * Yeh APIs zyada secure aur strict hoti hain.  
 * SOAP APIs usually XML format mein data ko send aur receive karti hain.
 
-### **API Usage Example** 
+ **API Usage Example** 
 
 **Restaurant Search API:**
 
@@ -78,18 +69,14 @@ Jaise waiter aapko pizza lekar aata hai, waise hi API backend se response lekar 
 3. **Response:** JSON format mein response milta hai.  
      
    
-
-### 
-
-### 
-
-### **Advantages Of API** 
+ 
+**Advantages Of API** 
 
 * **Automation**: APIs se tasks ko automate kar sakte hain jaise data fetch karna ya updates.  
 * **Data Access**: APIs se data ko access karna aasaan hota hai.  
 * **Scalability**: APIs ko aap easily scale kar sakte hain agar zyada data ya services integrate karni ho.
 
-### **Conclusion** 
+**Conclusion** 
 
 Toh, API ek bridge ki tarah hai jo applications ko ek doosre se connect karta hai. Aap API ki madad se data aur functionalities ko access aur integrate kar sakte ho bina directly kisi aur application ke internal code ko touch kiye.
 
